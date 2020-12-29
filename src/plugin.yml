@@ -1,0 +1,11 @@
+name: DiamondSword
+main: me.intriguing.DiamondSword
+version: 1.0
+author: Intriguing
+commands:
+  gsds:
+    description: Get special diamond sword.
+    usage: /gsdw
+  csds:
+    description: Check special diamond sword.
+    usage: /csdw
